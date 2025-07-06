@@ -32,11 +32,12 @@ Effect of non-ideal components
 
 Mode transitions (CCM to DCM)
 
-📷 Images
+
 ![Screenshot 2025-07-06 122538](https://github.com/user-attachments/assets/984ac221-dcf4-4b48-ba0f-dc54c60ff0d2)
 
 
 Group Member
+
 Piyush Raj – 230002051
 Saiyed Faiez Husnain – 230002062
 Tanish Kamal – 230002072
@@ -45,23 +46,3 @@ Veerapureddy Poorna Sai Reddy - 230002082
 
 
 
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 1 star
-Watchers
- 0 watching
-Forks
- 1 fork
-Report repository
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
